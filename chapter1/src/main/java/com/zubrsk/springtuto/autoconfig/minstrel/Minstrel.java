@@ -1,4 +1,4 @@
-package com.zubrsk.minstrel;
+package com.zubrsk.springtuto.autoconfig.minstrel;
 
 import java.io.PrintStream;
 

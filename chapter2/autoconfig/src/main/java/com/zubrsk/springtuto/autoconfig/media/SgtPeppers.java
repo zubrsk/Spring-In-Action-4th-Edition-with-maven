@@ -1,6 +1,5 @@
-package com.zubrsk.media;
+package com.zubrsk.springtuto.autoconfig.media;
 
-import com.zubrsk.media.CompactDisc;
 import org.springframework.stereotype.Component;
 
 @Component

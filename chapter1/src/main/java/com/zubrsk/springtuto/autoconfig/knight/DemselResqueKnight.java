@@ -1,6 +1,6 @@
-package com.zubrsk.knight;
+package com.zubrsk.springtuto.autoconfig.knight;
 
-import com.zubrsk.quest.DamselResqueQuest;
+import com.zubrsk.springtuto.autoconfig.quest.DamselResqueQuest;
 
 public class DemselResqueKnight implements Knight {
 

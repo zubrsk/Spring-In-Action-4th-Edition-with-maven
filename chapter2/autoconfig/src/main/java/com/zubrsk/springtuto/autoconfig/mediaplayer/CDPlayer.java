@@ -1,6 +1,6 @@
-package com.zubrsk.mediaplayer;
+package com.zubrsk.springtuto.autoconfig.mediaplayer;
 
-import com.zubrsk.media.CompactDisc;
+import com.zubrsk.springtuto.autoconfig.media.CompactDisc;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

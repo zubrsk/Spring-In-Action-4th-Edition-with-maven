@@ -1,4 +1,4 @@
-package com.zubrsk.knight;
+package com.zubrsk.springtuto.autoconfig.knight;
 
 public interface Knight {
   void embarkOnQuest();

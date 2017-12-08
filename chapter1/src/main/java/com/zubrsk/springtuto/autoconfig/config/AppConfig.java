@@ -1,10 +1,10 @@
-package com.zubrsk.config;
+package com.zubrsk.springtuto.autoconfig.config;
 
-import com.zubrsk.knight.BraveKnight;
-import com.zubrsk.knight.Knight;
-import com.zubrsk.minstrel.Minstrel;
-import com.zubrsk.quest.DragonSlayingQuest;
-import com.zubrsk.quest.Quest;
+import com.zubrsk.springtuto.autoconfig.knight.BraveKnight;
+import com.zubrsk.springtuto.autoconfig.knight.Knight;
+import com.zubrsk.springtuto.autoconfig.minstrel.Minstrel;
+import com.zubrsk.springtuto.autoconfig.quest.DragonSlayingQuest;
+import com.zubrsk.springtuto.autoconfig.quest.Quest;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

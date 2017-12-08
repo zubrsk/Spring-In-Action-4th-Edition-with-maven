@@ -1,6 +1,6 @@
-package com.zubrsk;
+package com.zubrsk.springtuto.autoconfig;
 
-import com.zubrsk.knight.Knight;
+import com.zubrsk.springtuto.autoconfig.knight.Knight;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class Main {
