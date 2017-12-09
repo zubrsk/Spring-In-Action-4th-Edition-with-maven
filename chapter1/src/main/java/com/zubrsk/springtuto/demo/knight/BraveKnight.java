@@ -1,6 +1,6 @@
-package com.zubrsk.springtuto.autoconfig.knight;
+package com.zubrsk.springtuto.demo.knight;
 
-import com.zubrsk.springtuto.autoconfig.quest.Quest;
+import com.zubrsk.springtuto.demo.quest.Quest;
 
 public class BraveKnight implements Knight {
 

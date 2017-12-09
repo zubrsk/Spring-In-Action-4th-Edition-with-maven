@@ -1,7 +1,7 @@
-package com.zubrsk.springtuto.autoconfig;
+package com.zubrsk.springtuto.demo;
 
-import com.zubrsk.springtuto.autoconfig.config.CDPlayerConfig;
-import com.zubrsk.springtuto.autoconfig.media.CompactDisc;
+import com.zubrsk.springtuto.demo.config.CDPlayerConfig;
+import com.zubrsk.springtuto.demo.media.CompactDisc;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class AutoConfigMain {

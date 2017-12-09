@@ -1,6 +1,6 @@
-import com.zubrsk.springtuto.autoconfig.knight.BraveKnight;
-import com.zubrsk.springtuto.autoconfig.knight.Knight;
-import com.zubrsk.springtuto.autoconfig.quest.Quest;
+import com.zubrsk.springtuto.demo.knight.BraveKnight;
+import com.zubrsk.springtuto.demo.knight.Knight;
+import com.zubrsk.springtuto.demo.quest.Quest;
 import org.junit.Test;
 
 import static org.mockito.Mockito.*;
