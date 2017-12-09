@@ -1,8 +1,5 @@
-package com.zubrsk.springtuto.demo.media;
+package com.zubrsk.springtuto.xmlconfig.media;
 
-import org.springframework.stereotype.Component;
-
-@Component
 public class SgtPeppers implements CompactDisc {
 
   private String title = "Sgt. Pepper's Lonely Hearts Club Band";

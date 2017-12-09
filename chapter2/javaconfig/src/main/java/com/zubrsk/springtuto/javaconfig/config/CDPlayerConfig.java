@@ -1,6 +1,7 @@
 package com.zubrsk.springtuto.javaconfig.config;
 
 import com.zubrsk.springtuto.javaconfig.media.CompactDisc;
+
 import com.zubrsk.springtuto.javaconfig.media.SgtPeppers;
 import com.zubrsk.springtuto.javaconfig.mediaplayer.CDPlayer;
 import com.zubrsk.springtuto.javaconfig.mediaplayer.MediaPlayer;

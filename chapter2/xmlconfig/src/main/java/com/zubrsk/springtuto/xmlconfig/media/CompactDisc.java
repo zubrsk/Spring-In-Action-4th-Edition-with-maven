@@ -1,4 +1,4 @@
-package com.zubrsk.springtuto.demo.media;
+package com.zubrsk.springtuto.xmlconfig.media;
 
 public interface CompactDisc {
   void play();
