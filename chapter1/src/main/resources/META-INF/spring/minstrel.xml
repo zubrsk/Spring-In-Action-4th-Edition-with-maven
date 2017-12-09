@@ -3,13 +3,13 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
       http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd">
 
-    <bean id="quest" class="com.zubrsk.quest.DragonSlayingQuest">
+    <bean id="quest" class="com.zubrsk.springtuto.autoconfig.quest.DragonSlayingQuest">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
-    <bean id="knight" class="com.zubrsk.knight.BraveKnight">
+    <bean id="knight" class="com.zubrsk.springtuto.autoconfig.knight.BraveKnight">
         <constructor-arg ref="quest"/>
     </bean>
-    <bean id="minstrel" class="com.zubrsk.minstrel.Minstrel">
+    <bean id="minstrel" class="com.zubrsk.springtuto.autoconfig.minstrel.Minstrel">
         <constructor-arg value="#{T(System).out}"/>
     </bean>
 
