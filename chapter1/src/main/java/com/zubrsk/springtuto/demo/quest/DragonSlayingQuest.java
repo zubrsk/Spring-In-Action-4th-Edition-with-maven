@@ -1,4 +1,4 @@
-package com.zubrsk.springtuto.autoconfig.quest;
+package com.zubrsk.springtuto.demo.quest;
 
 import java.io.PrintStream;
 

@@ -1,4 +1,4 @@
-package com.zubrsk.springtuto.autoconfig.media;
+package com.zubrsk.springtuto.demo.media;
 
 import org.springframework.stereotype.Component;
 
